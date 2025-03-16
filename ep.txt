@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head><title>Electronic Portfolio</title>
+
+</head>
+<body bgcolor="#F4F1E8" align="center" vlink="Purple">
+<pre>
+<p>   
+    
+    
+  
+  
+  
+  
+  
+  
+
+
+    
+<font color="Black"  face="Times New Roman" size="5"><b>Welcome!</b></font>
+<font color="Black"  face="Times New Roman" size="3">Electronic Portfolio By:
+Samantha Grace B. Baliao 
+9 - Fairness</font> 
+<font color="Black"  face="Times New Roman" size="2"><b><a href="sg1.html">Proceed to Next Page</a></b></font>
+</p> 
+</pre>   
+</body>    
+</html>
